@@ -1,3 +1,4 @@
 # Git Log -p
-- feature-A
 
+- feature-A
+- fix-B
